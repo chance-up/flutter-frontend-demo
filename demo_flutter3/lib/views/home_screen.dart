@@ -1,4 +1,4 @@
-import 'package:first_app/views/all_service_screen.dart';
+import 'package:demo_flutter3/views/all_service_screen.dart';
 import 'package:flutter/material.dart';
 import '../transition/slide_transition.dart';
 
